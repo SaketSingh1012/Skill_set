@@ -1,4 +1,4 @@
-# life-skills-track
+# 
 
 ## Question and Answer
 ## 1. How to Learn Faster with the Feynman Technique
