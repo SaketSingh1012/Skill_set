@@ -10,18 +10,18 @@ SQL, or Structured Query Language, originated in the 1970s at IBM as a means to 
 ## SQL Basics
 SQL, or Structured Query Language, is a powerful and standardized language used for managing and interacting with relational databases. It's essential for anyone dealing with data, and here are the key fundamentals:
 
-### Database Structure: SQL operates on relational databases, which consist of tables, each with rows and columns. These tables store data in a structured format.
-### CRUD Operations: SQL allows you to perform four primary operations on data: Create (INSERT), Read (SELECT), Update (UPDATE), and Delete (DELETE). These operations enable you to manage data effectively.
-### SELECT Statements: The SELECT statement retrieves data from one or more tables. It is the foundation for querying data, and it can be customized to filter, sort, and aggregate information.
-### Data Filtering: SQL uses conditions in WHERE clauses to filter data based on specific criteria. This makes it easy to extract only the data you need.
-### Data Modification: SQL can update existing data (UPDATE), insert new records (INSERT), and remove data (DELETE) when needed. These operations maintain data accuracy.
-### Table Creation: SQL allows you to create new tables (CREATE TABLE) to structure your data according to your needs. Each table has defined columns and data types.
-### Data Types: Data types specify the kind of data that can be stored in a column. Common data types include integers, strings, dates, and more.
-### Primary Keys: A primary key is a unique identifier for each record in a table. It ensures data integrity and helps establish relationships between tables.
-### Joins: SQL supports various types of joins, such as INNER JOIN, LEFT JOIN, and RIGHT JOIN, to combine data from multiple tables.
-### Aggregation: SQL provides functions like COUNT, SUM, AVG, MAX, and MIN to perform calculations on data. These are useful for generating statistics and reports.
-### Sorting: You can sort query results using the ORDER BY clause, specifying the column by which the data should be sorted and in ascending or descending order.
-### Grouping: The GROUP BY clause allows you to group data based on one or more columns, often used with aggregate functions for data summarization.
+Database Structure: SQL operates on relational databases, which consist of tables, each with rows and columns. These tables store data in a structured format.
+ CRUD Operations: SQL allows you to perform four primary operations on data: Create (INSERT), Read (SELECT), Update (UPDATE), and Delete (DELETE). These operations enable you to manage data effectively.
+ SELECT Statements: The SELECT statement retrieves data from one or more tables. It is the foundation for querying data, and it can be customized to filter, sort, and aggregate information.
+ Data Filtering: SQL uses conditions in WHERE clauses to filter data based on specific criteria. This makes it easy to extract only the data you need.
+ Data Modification: SQL can update existing data (UPDATE), insert new records (INSERT), and remove data (DELETE) when needed. These operations maintain data accuracy.
+ Table Creation: SQL allows you to create new tables (CREATE TABLE) to structure your data according to your needs. Each table has defined columns and data types.
+ Data Types: Data types specify the kind of data that can be stored in a column. Common data types include integers, strings, dates, and more.
+ Primary Keys: A primary key is a unique identifier for each record in a table. It ensures data integrity and helps establish relationships between tables.
+ Joins: SQL supports various types of joins, such as INNER JOIN, LEFT JOIN, and RIGHT JOIN, to combine data from multiple tables.
+ Aggregation: SQL provides functions like COUNT, SUM, AVG, MAX, and MIN to perform calculations on data. These are useful for generating statistics and reports.
+ Sorting: You can sort query results using the ORDER BY clause, specifying the column by which the data should be sorted and in ascending or descending order.
+ Grouping: The GROUP BY clause allows you to group data based on one or more columns, often used with aggregate functions for data summarization.
 Understanding these SQL basics is essential for working with relational databases and is a foundation for more advanced database management and data analysis.
 
 ## Database Design and Normalization
@@ -50,9 +50,9 @@ Moreover, SQL continues to evolve alongside emerging trends and technologies, su
 In conclusion, SQL's significance is bound to persist and grow as data management requirements become increasingly complex. It remains an essential tool in the data professional's arsenal, facilitating data-driven decision-making and ensuring the integrity, security, and efficiency of data operations. As the data landscape continues to evolve, SQL is poised to adapt and thrive, maintaining its relevance in the digital age.
 
 ## References
-#### Date, C. J. (2003). An Introduction to Database Systems. Pearson Education.
-#### Elmasri, R., & Navathe, S. B. (2019). Fundamentals of Database Systems. Pearson.
-#### Microsoft. (2021). SQL Server documentation. https://docs.microsoft.com/en-us/sql
-#### Oracle. (2021). Oracle Database documentation. https://docs.oracle.com/en/database
-#### Postgresql. (2021). PostgreSQL documentation. https://www.postgresql.org/docs
-#### Kimball, R., & Ross, M. (2011). The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling. Wiley.
+ Date, C. J. (2003). An Introduction to Database Systems. Pearson Education.
+ Elmasri, R., & Navathe, S. B. (2019). Fundamentals of Database Systems. Pearson.
+ Microsoft. (2021). SQL Server documentation. https://docs.microsoft.com/en-us/sql
+ Oracle. (2021). Oracle Database documentation. https://docs.oracle.com/en/database
+ Postgresql. (2021). PostgreSQL documentation. https://www.postgresql.org/docs
+ Kimball, R., & Ross, M. (2011). The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling. Wiley.
