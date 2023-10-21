@@ -27,22 +27,8 @@ Diffuse Thinking (Diffused Mode): In contrast, this mode is more relaxed and gra
 
 ### There are several actions I can take to improve my learning process:
 
-1. Define clear learning objectives to know what you want to achieve.
-
-2. Create a study schedule for consistent time management.
-
-3. Explore various resources like books, online courses, videos, and tutorials for a well-rounded understanding.
-
-4. Take notes of important points to aid retention and comprehension.
-
-5. Practice regularly, especially for subjects like coding or math that require it for improvement.
-
-6. Keep your study materials well-organized for easy access.
-
-7. Seek feedback from teachers, mentors, or peers to identify areas for improvement.
-
-8. Collaborate with others through group study sessions and projects for knowledge sharing.
-
-9. Stay updated with the latest developments in your field of study.
-
-10. Make wise use of educational apps, online forums, and tools to enhance your learning experience.
+1. Set clear learning goals.
+2. Make a study schedule.
+3. Use different resources.
+4. Take notes.
+5. Practice regularly.
