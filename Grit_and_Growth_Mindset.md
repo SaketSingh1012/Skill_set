@@ -9,7 +9,7 @@ The concept of a growth mindset, introduced by Carol Dweck, is changing how we t
 # Question 3: What is the Internal Locus of Control? What is the key point in the video?
 # Answer:
 The internal locus of control refers to the belief that you have the ability to control your outcomes and that your actions are the primary cause of your improvements.
-The key points are:
+## The key points are:
 1. Praising effort and hard work, not innate ability, boosts motivation and enjoyment.
 2. Believing in your ability to control outcomes (internal locus of control) is vital for motivation.
 3. Problem-solving and taking responsibility for improvement reinforce internal locus of control.
