@@ -1,18 +1,10 @@
 # Question 1: Summary
 # Answer:
-Success depends on effort and drive, not simply IQ.
-Key indicators of success in a variety of fields include grit, desire, and perseverance.
-Grit is important in school and increases graduation rates.
-"Growth mindset" can aid in fostering grit; talent alone cannot ensure it.
-It's critical to develop grit-building techniques, especially for young people, and this necessitates a readiness to learn from mistakes.
+Achieving success isn't just about being smart; it's about working hard and staying motivated. Key factors for success include determination, passion, and the ability to keep going. Doing well in school and graduating often comes down to having a strong will to succeed. Having a "growth mindset," which means believing you can improve, can help build this determination. It's not enough to rely solely on talent; you have to be ready to learn from your failures to develop the grit needed for success.
 
 # Question 2: Summary
 # Answer:
-Growth mindset, developed by Carol Dweck, is revolutionizing education and learning by highlighting the significance of attitudes for achievement.
-There are two mindsets: development (believing abilities are acquired through effort) and fixed (believing abilities are innate).
-The fundamental tenet is that people with a growth mindset view their talents as pliable and place a strong emphasis on learning and development, which results in higher accomplishments.
-People's attitudes toward effort, difficulties, failures, and criticism are influenced by their perspective; people with a growth mindset view these things as opportunities for learning.
-For a culture of efficient learning, it is vital to create a growth mindset because the mindset can vary over time and differs by beliefs and focus.
+The concept of a growth mindset, introduced by Carol Dweck, is changing how we think about success in education. It involves two types of mindsets: the growth mindset (belief in developing abilities through effort) and the fixed mindset (belief that abilities are innate). People with a growth mindset see their talents as something they can improve, and they prioritize learning and development, leading to greater achievements. Your mindset affects how you view effort, challenges, failures, and feedback – those with a growth mindset see these as opportunities to learn. To foster effective learning, it's essential to promote a growth mindset, as people's beliefs and focus can change over time.
 
 # Question 3: What is the Internal Locus of Control? What is the key point in the video?
 # Answer:
