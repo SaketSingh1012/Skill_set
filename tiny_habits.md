@@ -1,6 +1,6 @@
 ### Question 1:
 
-1. In order to get to the venue of the event, the speaker had to depart the wine region early.<br>
+* In order to get to the venue of the event, the speaker had to depart the wine region early.<br>
 2. The emphasis is on starting with little tasks rather than setting high standards.<br>
 3. The speaker uses the practice of flossing one tooth each day to illustrate the concept.<br>
 4. Focusing on little behaviors is the key to achieving big change.
